@@ -228,3 +228,8 @@ Start a MySQL container and initialize it with setup.sql
 Build and run the backend on port 5000
 
 Build and run the frontend on port 3000
+#snaps of application 
+<img width="1914" height="907" alt="profilematcher-filter shifting after saving profile" src="https://github.com/user-attachments/assets/6d3ed901-3c4d-4e62-94c4-c7b1b7eda0d8" />
+<img width="1920" height="816" alt="filter_form" src="https://github.com/user-attachments/assets/67fb72c5-2654-4e5b-8d18-de314426247d" />
+
+
