@@ -231,5 +231,9 @@ Build and run the frontend on port 3000
 #snaps of application 
 <img width="1914" height="907" alt="profilematcher-filter shifting after saving profile" src="https://github.com/user-attachments/assets/6d3ed901-3c4d-4e62-94c4-c7b1b7eda0d8" />
 <img width="1920" height="816" alt="filter_form" src="https://github.com/user-attachments/assets/67fb72c5-2654-4e5b-8d18-de314426247d" />
+<img width="1553" height="860" alt="profileform1" src="https://github.com/user-attachments/assets/6a20e5f2-e09f-4bbd-8018-31405a4998bf" />
+<img width="1553" height="860" alt="profileform1" src="https://github.com/user-attachments/assets/39ec09dc-7a98-4020-a77b-95b14fdeb96c" />
+
+
 
 
